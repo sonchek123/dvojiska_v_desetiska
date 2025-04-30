@@ -1,7 +1,7 @@
 # Pretvori dvojiško število v desetiško.
 
 Interaktivna spletna aplikacija za utrjevanje razumevanja dvojiškega sistema. Uporabnik pretvori prikazano binarno (dvojiško) število v desetiški zapis.
-
+Pripravljeno s pomočjo ChatGPT - vaja
 ## Funkcionalnosti
 
 - Izbor števila nalog (5, 10, 15)
